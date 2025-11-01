@@ -2,7 +2,7 @@
 - 👀 I’m interested in supporting client to answer their questions
 - 🌱 I’m currently learning how to answer questions effiently 
 - 💞️ I’m looking to collaborate on wechat and email
-- 📫 How to reach me wechat: NZ0275437888 and admin@assureme.co.nz
+- 📫 How to reach me wechat: NZ0275437888 and aipromme@gmail.com
 
 <!---
 ASSUREMENZ/ASSUREMENZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
